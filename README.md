@@ -9,13 +9,9 @@
 
     4.医生排班查询
  ### 
- 
-![image][https://raw.githubusercontent.com/wiki/C-Utopia/ghxt/1.png]
 
-![image][https://raw.githubusercontent.com/wiki/C-Utopia/ghxt/2.png]
+![Image text](https://raw.githubusercontent.com/wiki/C-Utopia/ghxt/1.png)
 
-![image][https://raw.githubusercontent.com/wiki/C-Utopia/ghxt/3.png]
 
-![image][https://raw.githubusercontent.com/wiki/C-Utopia/ghxt/4.png]
+![Image text](https://raw.githubusercontent.com/wiki/C-Utopia/ghxt/3.png)
 
-![image][https://raw.githubusercontent.com/wiki/C-Utopia/ghxt/5.png]
